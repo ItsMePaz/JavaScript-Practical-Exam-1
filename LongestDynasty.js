@@ -132,3 +132,5 @@ if (!(dynastyReign.length > 0)) {
 
   longestdynasty();
 }
+
+//Finished in a day

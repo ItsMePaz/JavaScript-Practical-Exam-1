@@ -62,5 +62,3 @@ function zeroProfitProduct() {
 topProduct();
 bottomProduct();
 zeroProfitProduct();
-
-//Finished in 2 hours and 16 minutes
